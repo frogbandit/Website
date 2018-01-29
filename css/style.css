@@ -46,11 +46,11 @@ body {
   border-top: 1px solid #e5e5e5;
   padding-top: 2%;
   height: 100%;
+  font-size: 12px;
   position: relative;
 }
 
-.vcenter {
-    display: inline-block;
-    vertical-align: middle;
-    float: none;
+.small-image {
+    width: 25%;
 }
+
