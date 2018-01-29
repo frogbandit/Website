@@ -48,3 +48,9 @@ body {
   height: 100%;
   position: relative;
 }
+
+.vcenter {
+    display: inline-block;
+    vertical-align: middle;
+    float: none;
+}
